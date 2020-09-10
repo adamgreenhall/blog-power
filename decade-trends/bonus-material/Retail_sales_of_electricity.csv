@@ -1,0 +1,440 @@
+"Retail sales of electricity"
+"https://www.eia.gov/electricity/data/browser/#/topic/5?agg=0,1&geo=vvvvvvvvvvvvo&endsec=vg&freq=A&start=2001&end=2019&ctype=map&ltype=pin&rtype=s&pin=&rse=0&maptype=0"
+"Sat Jul 04 2020 11:58:25 GMT-0500 (Central Daylight Time)"
+"Source: U.S. Energy Information Administration"
+"description","units","source key","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019"
+"Retail sales of electricity","million kilowatthours",,,,,,,,,,,,,,,,,,,,
+"United States","million kilowatthours","ELEC.SALES.US-ALL.A",,,,,,,,,,,,,,,,,,,
+"United States : all sectors","million kilowatthours","ELEC.SALES.US-ALL.A",3394458,3465466,3493734,3547479,3660969,3669919,3764561,3733965,3596795,3754841,3749846,3694650,3724868,3764700,3758992,3762462,3723356,3859185,3749538
+"United States : residential","million kilowatthours","ELEC.SALES.US-RES.A",1201607,1265180,1275824,1291982,1359227,1351520,1392241,1380662,1364758,1445708,1422801,1374515,1394812,1407208,1404096,1411058,1378648,1469093,1435147
+"United States : commercial","million kilowatthours","ELEC.SALES.US-COM.A",1083069,1104497,1198728,1230425,1275079,1299744,1336315,1336133,1306853,1330199,1328057,1327101,1337079,1352158,1360752,1367191,1352888,1381755,1354545
+"United States : industrial","million kilowatthours","ELEC.SALES.US-IND.A",996609,990238,1012373,1017850,1019156,1011298,1027832,1009516,917416,971221,991316,985714,985352,997576,986508,976715,984298,1000673,952149
+"United States : transportation","million kilowatthours","ELEC.SALES.US-TRA.A","--","--",6810,7224,7506,7358,8173,7653,7768,7712,7672,7320,7625,7758,7637,7497,7523,7665,7697
+"United States : other","million kilowatthours","ELEC.SALES.US-OTH.A",113174,105552,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"New England","million kilowatthours","ELEC.SALES.NEW-ALL.A",,,,,,,,,,,,,,,,,,,
+"New England : all sectors","million kilowatthours","ELEC.SALES.NEW-ALL.A",118483,119728,123438,125249,127862,124501,128241,123051,119171,123331,120995,120456,121357,119983,120170,117802,115458,118634,113269
+"New England : residential","million kilowatthours","ELEC.SALES.NEW-RES.A",42359,44089,46250,46703,48701,46490,47717,46290,45893,48577,47481,47208,48369,47212,47482,46532,45849,48099,46131
+"New England : commercial","million kilowatthours","ELEC.SALES.NEW-COM.A",49424,49939,52389,53683,54777,54171,56808,54657,45226,45948,45018,44864,44938,53107,53383,52753,52190,52924,51150
+"New England : industrial","million kilowatthours","ELEC.SALES.NEW-IND.A",25219,24152,24315,24267,23792,23276,23115,21583,27508,28237,27927,27818,27472,19107,18733,17965,16867,17054,15440
+"New England : transportation","million kilowatthours","ELEC.SALES.NEW-TRA.A","--","--",484,596,592,563,601,522,544,568,569,566,577,557,572,552,553,557,547
+"New England : other","million kilowatthours","ELEC.SALES.NEW-OTH.A",1481,1548,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Connecticut","million kilowatthours","ELEC.SALES.CT-ALL.A",,,,,,,,,,,,,,,,,,,
+"Connecticut : all sectors","million kilowatthours","ELEC.SALES.CT-ALL.A",30541,31005,31830,32215,33095,31677,34129,30957,29716,30392,29859,29492,29825,29354,29476,28931,28136,28834,27755
+"Connecticut : residential","million kilowatthours","ELEC.SALES.CT-RES.A",11975,12473,13178,13211,13803,12963,13372,12730,12578,13065,12919,12758,13135,12778,12893,12677,12380,13061,12498
+"Connecticut : commercial","million kilowatthours","ELEC.SALES.CT-COM.A",12442,12614,13094,13455,13949,13611,15126,13665,13257,13428,13087,12976,13009,12894,12959,12701,12335,12381,12150
+"Connecticut : industrial","million kilowatthours","ELEC.SALES.CT-IND.A",5572,5370,5366,5358,5153,4926,5433,4371,3692,3713,3668,3566,3490,3515,3432,3370,3244,3210,2929
+"Connecticut : transportation","million kilowatthours","ELEC.SALES.CT-TRA.A","--","--",192,190,190,177,198,190,188,186,185,193,190,169,193,183,177,181,177
+"Connecticut : other","million kilowatthours","ELEC.SALES.CT-OTH.A",552,548,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Maine","million kilowatthours","ELEC.SALES.ME-ALL.A",,,,,,,,,,,,,,,,,,,
+"Maine : all sectors","million kilowatthours","ELEC.SALES.ME-ALL.A",12152,11441,11972,12368,12363,12285,11860,11674,11283,11532,11415,11561,11855,12003,11888,11449,11214,12355,11815
+"Maine : residential","million kilowatthours","ELEC.SALES.ME-RES.A",3903,4043,4219,4331,4503,4351,4413,4351,4360,4372,4382,4481,4662,4661,4662,4586,4639,4872,4849
+"Maine : commercial","million kilowatthours","ELEC.SALES.ME-COM.A",3779,3789,3959,4325,4157,4134,4195,4148,4071,4101,4018,4053,4016,3985,4018,3986,3917,4447,4220
+"Maine : industrial","million kilowatthours","ELEC.SALES.ME-IND.A",4413,3550,3793,3711,3702,3800,3252,3175,2852,3059,3016,3027,3177,3357,3208,2877,2658,3036,2745
+"Maine : transportation","million kilowatthours","ELEC.SALES.ME-TRA.A","--","--",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Maine : other","million kilowatthours","ELEC.SALES.ME-OTH.A",57,59,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Massachusetts","million kilowatthours","ELEC.SALES.MA-ALL.A",,,,,,,,,,,,,,,,,,,
+"Massachusetts : all sectors","million kilowatthours","ELEC.SALES.MA-ALL.A",52496,53708,55514,56142,57228,55850,57139,55884,54359,57123,55570,55313,55265,54469,54621,53476,52513,53285,50261
+"Massachusetts : residential","million kilowatthours","ELEC.SALES.MA-RES.A",17984,18695,19591,19769,20539,19624,20138,19638,19475,21409,20473,20313,20728,20071,20175,19693,19338,20285,19221
+"Massachusetts : commercial","million kilowatthours","ELEC.SALES.MA-COM.A",24127,24250,25648,26020,26415,26237,27148,26582,17775,18243,17767,17723,17713,26076,26200,25934,25968,25952,24904
+"Massachusetts : industrial","million kilowatthours","ELEC.SALES.MA-IND.A",9757,10087,9984,9947,9871,9602,9450,9332,16754,17116,16974,16927,16463,7961,7892,7507,6859,6699,5792
+"Massachusetts : transportation","million kilowatthours","ELEC.SALES.MA-TRA.A","--","--",292,406,402,386,403,332,356,355,357,350,361,361,353,342,348,349,343
+"Massachusetts : other","million kilowatthours","ELEC.SALES.MA-OTH.A",629,676,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"New Hampshire","million kilowatthours","ELEC.SALES.NH-ALL.A",,,,,,,,,,,,,,,,,,,
+"New Hampshire : all sectors","million kilowatthours","ELEC.SALES.NH-ALL.A",10316,10383,10973,10973,11245,11094,11236,10977,10698,10890,10869,10870,11043,10944,10999,10905,10787,11046,10691
+"New Hampshire : residential","million kilowatthours","ELEC.SALES.NH-RES.A",3789,4003,4252,4282,4495,4401,4493,4394,4422,4485,4454,4439,4554,4510,4527,4438,4441,4641,4502
+"New Hampshire : commercial","million kilowatthours","ELEC.SALES.NH-COM.A",3911,4024,4318,4363,4576,4563,4570,4518,4441,4462,4478,4478,4517,4465,4491,4466,4390,4443,4285
+"New Hampshire : industrial","million kilowatthours","ELEC.SALES.NH-IND.A",2483,2222,2403,2328,2174,2131,2173,2065,1836,1942,1936,1953,1973,1969,1981,2000,1956,1963,1904
+"New Hampshire : transportation","million kilowatthours","ELEC.SALES.NH-TRA.A","--","--",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"New Hampshire : other","million kilowatthours","ELEC.SALES.NH-OTH.A",133,134,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Rhode Island","million kilowatthours","ELEC.SALES.RI-ALL.A",,,,,,,,,,,,,,,,,,,
+"Rhode Island : all sectors","million kilowatthours","ELEC.SALES.RI-ALL.A",7393,7561,7797,7888,8049,7799,8013,7819,7618,7799,7732,7708,7781,7643,7665,7524,7385,7583,7347
+"Rhode Island : residential","million kilowatthours","ELEC.SALES.RI-RES.A",2699,2829,2998,3000,3171,3008,3132,3043,2937,3118,3129,3121,3165,3070,3136,3082,3028,3124,2982
+"Rhode Island : commercial","million kilowatthours","ELEC.SALES.RI-COM.A",3240,3316,3490,3542,3628,3599,3710,3700,3691,3693,3660,3640,3667,3658,3705,3651,3603,3698,3642
+"Rhode Island : industrial","million kilowatthours","ELEC.SALES.RI-IND.A",1386,1331,1309,1345,1250,1191,1171,1075,990,961,916,923,923,887,799,764,726,735,695
+"Rhode Island : transportation","million kilowatthours","ELEC.SALES.RI-TRA.A","--","--",0,0,0,0,0,0,0,27,27,24,26,28,26,27,28,27,27
+"Rhode Island : other","million kilowatthours","ELEC.SALES.RI-OTH.A",68,85,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Vermont","million kilowatthours","ELEC.SALES.VT-ALL.A",,,,,,,,,,,,,,,,,,,
+"Vermont : all sectors","million kilowatthours","ELEC.SALES.VT-ALL.A",5585,5629,5352,5664,5883,5795,5864,5741,5497,5595,5550,5511,5588,5570,5521,5516,5424,5531,5401
+"Vermont : residential","million kilowatthours","ELEC.SALES.VT-RES.A",2009,2047,2011,2109,2189,2142,2170,2133,2122,2128,2125,2095,2125,2121,2089,2056,2023,2116,2078
+"Vermont : commercial","million kilowatthours","ELEC.SALES.VT-COM.A",1926,1946,1881,1978,2051,2027,2059,2043,1991,2021,2009,1994,2017,2031,2011,2014,1977,2004,1948
+"Vermont : industrial","million kilowatthours","ELEC.SALES.VT-IND.A",1608,1592,1460,1577,1644,1626,1635,1565,1383,1446,1417,1422,1446,1418,1422,1446,1424,1411,1374
+"Vermont : transportation","million kilowatthours","ELEC.SALES.VT-TRA.A","--","--",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Vermont : other","million kilowatthours","ELEC.SALES.VT-OTH.A",42,45,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Middle Atlantic","million kilowatthours","ELEC.SALES.MAT-ALL.A",,,,,,,,,,,,,,,,,,,
+"Middle Atlantic : all sectors","million kilowatthours","ELEC.SALES.MAT-ALL.A",352630,361863,360796,366176,380317,368069,381685,374973,359562,372767,369664,362925,368791,367926,370747,368490,361366,374923,362758
+"Middle Atlantic : residential","million kilowatthours","ELEC.SALES.MAT-RES.A",115757,122358,124134,126062,134168,128838,134580,132205,128985,136506,135434,132231,133574,132063,134574,133799,128567,137580,133083
+"Middle Atlantic : commercial","million kilowatthours","ELEC.SALES.MAT-COM.A",135804,140332,152329,156807,162366,161090,162734,165332,161135,164765,159059,157278,157718,158043,159474,158715,155927,158774,152628
+"Middle Atlantic : industrial","million kilowatthours","ELEC.SALES.MAT-IND.A",85540,83713,80733,79544,79759,74227,79805,73353,65218,67367,71039,69507,73520,73837,72804,72130,73044,74601,73242
+"Middle Atlantic : transportation","million kilowatthours","ELEC.SALES.MAT-TRA.A","--","--",3600,3763,4025,3914,4566,4083,4223,4130,4131,3910,3979,3983,3896,3846,3828,3968,3806
+"Middle Atlantic : other","million kilowatthours","ELEC.SALES.MAT-OTH.A",15529,15459,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"New Jersey","million kilowatthours","ELEC.SALES.NJ-ALL.A",,,,,,,,,,,,,,,,,,,
+"New Jersey : all sectors","million kilowatthours","ELEC.SALES.NJ-ALL.A",73177,74603,76383,77593,81897,79681,81934,80520,75780,79179,76860,75053,74642,73866,75490,75359,73383,76017,73345
+"New Jersey : residential","million kilowatthours","ELEC.SALES.NJ-RES.A",25491,27171,27367,28020,29973,28622,29752,29111,27833,30307,29399,28663,28545,27893,29142,29091,27762,29531,28661
+"New Jersey : commercial","million kilowatthours","ELEC.SALES.NJ-COM.A",34445,35429,36616,38074,39762,39437,40876,40570,39377,40123,39118,38340,38231,38154,38723,38672,37971,38807,37720
+"New Jersey : industrial","million kilowatthours","ELEC.SALES.NJ-IND.A",12707,11476,12215,11210,11862,11331,11013,10537,8250,8429,8033,7762,7566,7517,7320,7293,7343,7369,6663
+"New Jersey : transportation","million kilowatthours","ELEC.SALES.NJ-TRA.A","--","--",184,290,299,291,293,302,320,321,310,287,301,303,304,303,307,310,300
+"New Jersey : other","million kilowatthours","ELEC.SALES.NJ-OTH.A",534,526,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"New York","million kilowatthours","ELEC.SALES.NY-ALL.A",,,,,,,,,,,,,,,,,,,
+"New York : all sectors","million kilowatthours","ELEC.SALES.NY-ALL.A",144181,147440,144045,145082,150148,142238,148178,144053,140034,144624,144047,143163,147895,147372,148914,147803,144992,149930,144400
+"New York : residential","million kilowatthours","ELEC.SALES.NY-RES.A",44236,46457,47116,47379,50533,48427,50241,49034,48246,50946,51240,50692,50777,49975,51013,50831,49081,52153,50112
+"New York : commercial","million kilowatthours","ELEC.SALES.NY-COM.A",60806,62271,72495,74378,76822,76029,74326,77416,75347,77276,76406,76018,76342,76541,77006,76507,75333,76745,74738
+"New York : industrial","million kilowatthours","ELEC.SALES.NY-IND.A",25450,25148,21745,20675,19947,14976,20213,14685,13417,13480,13420,13705,17911,18003,18079,17709,17811,18077,16662
+"New York : transportation","million kilowatthours","ELEC.SALES.NY-TRA.A","--","--",2689,2650,2846,2806,3397,2918,3025,2922,2981,2748,2864,2853,2816,2756,2767,2954,2887
+"New York : other","million kilowatthours","ELEC.SALES.NY-OTH.A",13689,13565,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Pennsylvania","million kilowatthours","ELEC.SALES.PA-ALL.A",,,,,,,,,,,,,,,,,,,
+"Pennsylvania : all sectors","million kilowatthours","ELEC.SALES.PA-ALL.A",135272,139820,140369,143501,148273,146150,151573,150401,143747,148964,148757,144710,146254,146688,146344,145328,142991,148977,145014
+"Pennsylvania : residential","million kilowatthours","ELEC.SALES.PA-RES.A",46030,48730,49651,50663,53661,51790,54587,54060,52906,55253,54796,52876,54252,54195,54419,53877,51724,55896,54309
+"Pennsylvania : commercial","million kilowatthours","ELEC.SALES.PA-COM.A",40553,42632,43218,44355,45782,45624,47531,47347,46411,47366,43536,42920,43145,43348,43745,43535,42623,43222,40170
+"Pennsylvania : industrial","million kilowatthours","ELEC.SALES.PA-IND.A",47383,47090,46773,47659,47950,47920,48579,48131,43552,45458,49585,48039,48043,48318,47404,47128,47889,49155,49916
+"Pennsylvania : transportation","million kilowatthours","ELEC.SALES.PA-TRA.A","--","--",727,823,880,816,876,863,879,887,840,875,814,827,776,787,755,703,618
+"Pennsylvania : other","million kilowatthours","ELEC.SALES.PA-OTH.A",1306,1368,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"East North Central","million kilowatthours","ELEC.SALES.ENC-ALL.A",,,,,,,,,,,,,,,,,,,
+"East North Central : all sectors","million kilowatthours","ELEC.SALES.ENC-ALL.A",557193,564996,565024,571151,592492,579380,597844,586893,546708,577302,577115,574809,569762,571971,563527,569557,553784,575593,549593
+"East North Central : residential","million kilowatthours","ELEC.SALES.ENC-RES.A",171309,183373,178542,179231,194679,186445,194798,190445,182553,195096,191617,188641,188046,187958,183153,187898,179275,193825,185867
+"East North Central : commercial","million kilowatthours","ELEC.SALES.ENC-COM.A",161762,160983,172186,173610,182907,182656,188477,186098,179734,183452,183359,183333,182798,182860,183420,185751,181770,185278,181578
+"East North Central : industrial","million kilowatthours","ELEC.SALES.ENC-IND.A",207503,204311,213787,217797,214308,209694,213952,209712,183829,198133,201563,202221,198273,200505,196364,195324,192154,195875,181512
+"East North Central : transportation","million kilowatthours","ELEC.SALES.ENC-TRA.A","--","--",508,514,598,584,617,638,592,621,576,614,645,648,589,585,586,615,636
+"East North Central : other","million kilowatthours","ELEC.SALES.ENC-OTH.A",16620,16329,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Illinois","million kilowatthours","ELEC.SALES.IL-ALL.A",,,,,,,,,,,,,,,,,,,
+"Illinois : all sectors","million kilowatthours","ELEC.SALES.IL-ALL.A",136034,138447,136248,139254,144986,142448,146055,144620,136688,144761,142886,143540,141805,141540,138620,141050,137196,142655,137196
+"Illinois : residential","million kilowatthours","ELEC.SALES.IL-RES.A",41820,45030,43161,43443,48593,46381,48036,46780,44324,48583,47057,46902,46372,46009,44646,45990,43717,47226,45270
+"Illinois : commercial","million kilowatthours","ELEC.SALES.IL-COM.A",43135,44244,49561,47358,49977,50631,52043,51770,50329,51437,50468,50808,50473,50619,50320,50910,49988,50763,49615
+"Illinois : industrial","million kilowatthours","ELEC.SALES.IL-IND.A",40780,39288,43042,48008,45888,44916,45430,45503,41507,44180,44844,45277,44387,44330,43131,43632,42971,44115,41741
+"Illinois : transportation","million kilowatthours","ELEC.SALES.IL-TRA.A","--","--",484,445,528,519,545,566,527,560,516,553,573,582,524,519,520,551,570
+"Illinois : other","million kilowatthours","ELEC.SALES.IL-OTH.A",10298,9886,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Indiana","million kilowatthours","ELEC.SALES.IN-ALL.A",,,,,,,,,,,,,,,,,,,
+"Indiana : all sectors","million kilowatthours","ELEC.SALES.IN-ALL.A",97734,101429,100468,103094,106549,105664,109420,106981,99312,105994,105818,105173,105487,106943,104515,103705,98966,104194,97286
+"Indiana : residential","million kilowatthours","ELEC.SALES.IN-RES.A",29420,31568,30726,31192,33629,32286,34646,33980,32548,35058,33912,32964,33407,33704,32442,33026,31552,34575,32739
+"Indiana : commercial","million kilowatthours","ELEC.SALES.IN-COM.A",25551,21790,22441,22957,23959,23830,24768,24570,23689,24365,24111,24022,24252,24130,24022,24229,23657,24305,23810
+"Indiana : industrial","million kilowatthours","ELEC.SALES.IN-IND.A",42080,47481,47284,48928,48944,49530,49988,48411,43055,46552,47774,48168,47808,49088,48030,46429,43737,45293,40717
+"Indiana : transportation","million kilowatthours","ELEC.SALES.IN-TRA.A","--","--",16,17,17,18,19,20,20,20,21,20,21,21,21,21,20,21,21
+"Indiana : other","million kilowatthours","ELEC.SALES.IN-OTH.A",684,589,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Michigan","million kilowatthours","ELEC.SALES.MI-ALL.A",,,,,,,,,,,,,,,,,,,
+"Michigan : all sectors","million kilowatthours","ELEC.SALES.MI-ALL.A",102409,104714,108877,106606,110445,108018,109297,105781,98121,103649,105054,104818,103038,103314,102480,104468,101899,104869,100377
+"Michigan : residential","million kilowatthours","ELEC.SALES.MI-RES.A",32305,34336,33669,33104,36095,34622,35366,34297,32854,34681,34811,34461,34013,33515,33358,34543,32977,35131,33430
+"Michigan : commercial","million kilowatthours","ELEC.SALES.MI-COM.A",35025,35880,35391,38632,39600,39299,40047,38974,37870,38123,38613,38514,37698,37349,38441,38986,38325,38925,38139
+"Michigan : industrial","million kilowatthours","ELEC.SALES.MI-IND.A",34174,33537,39813,34867,34745,34093,33879,32505,27391,30841,31624,31836,31322,32446,30677,30934,30591,30806,28802
+"Michigan : transportation","million kilowatthours","ELEC.SALES.MI-TRA.A","--","--",3,3,5,4,5,5,5,5,5,7,6,4,4,4,6,7,6
+"Michigan : other","million kilowatthours","ELEC.SALES.MI-OTH.A",905,960,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Ohio","million kilowatthours","ELEC.SALES.OH-ALL.A",,,,,,,,,,,,,,,,,,,
+"Ohio : all sectors","million kilowatthours","ELEC.SALES.OH-ALL.A",155798,153407,152189,154221,160176,153429,161771,159389,146300,154145,154746,152457,150307,150680,149213,150598,146644,152915,145525
+"Ohio : residential","million kilowatthours","ELEC.SALES.OH-RES.A",47346,50864,49621,50300,53904,51375,54376,53411,51405,54474,53687,52288,52158,52804,51493,52524,49796,54452,52372
+"Ohio : commercial","million kilowatthours","ELEC.SALES.OH-COM.A",39372,39924,44737,45313,46870,46141,48129,47310,45370,46526,47112,46756,46718,47005,47124,47742,46158,47192,46524
+"Ohio : industrial","million kilowatthours","ELEC.SALES.OH-IND.A",65099,58472,57828,58558,59354,55869,59219,58621,49486,53109,53913,53379,51387,50829,50557,50291,50651,51236,46592
+"Ohio : transportation","million kilowatthours","ELEC.SALES.OH-TRA.A","--","--",5,49,48,44,48,47,39,36,34,34,44,42,40,41,39,36,38
+"Ohio : other","million kilowatthours","ELEC.SALES.OH-OTH.A",3981,4148,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Wisconsin","million kilowatthours","ELEC.SALES.WI-ALL.A",,,,,,,,,,,,,,,,,,,
+"Wisconsin : all sectors","million kilowatthours","ELEC.SALES.WI-ALL.A",65218,66999,67241,67976,70336,69821,71301,70122,66286,68752,68612,68820,69124,69495,68699,69736,69079,70960,69208
+"Wisconsin : residential","million kilowatthours","ELEC.SALES.WI-RES.A",20418,21575,21364,21192,22458,21779,22374,21976,21421,22299,22150,22026,22096,21926,21215,21814,21233,22441,22056
+"Wisconsin : commercial","million kilowatthours","ELEC.SALES.WI-COM.A",18678,19144,20056,19349,22501,22756,23491,23473,22476,23001,23055,23233,23658,23757,23514,23884,23641,24093,23490
+"Wisconsin : industrial","million kilowatthours","ELEC.SALES.WI-IND.A",25370,25534,25821,27435,25376,25286,25436,24672,22390,23452,23407,23561,23370,23812,23970,24038,24205,24425,23661
+"Wisconsin : transportation","million kilowatthours","ELEC.SALES.WI-TRA.A","--","--",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Wisconsin : other","million kilowatthours","ELEC.SALES.WI-OTH.A",752,746,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"West North Central","million kilowatthours","ELEC.SALES.WNC-ALL.A",,,,,,,,,,,,,,,,,,,
+"West North Central : all sectors","million kilowatthours","ELEC.SALES.WNC-ALL.A",252350,259591,260668,261030,276368,280451,289957,290840,277897,293913,294296,293706,297547,301178,294806,295255,295637,308478,296215
+"West North Central : residential","million kilowatthours","ELEC.SALES.WNC-RES.A",89758,94154,93729,93015,100210,99834,104460,103743,101715,107783,106281,102799,106312,106909,101620,102860,100529,109892,105382
+"West North Central : commercial","million kilowatthours","ELEC.SALES.WNC-COM.A",80345,82298,90005,89440,94190,95608,99000,99538,97740,100021,99483,99542,100980,100716,101711,102760,101871,104457,102498
+"West North Central : industrial","million kilowatthours","ELEC.SALES.WNC-IND.A",75136,75402,76933,78554,81923,84968,86456,87514,78399,86064,88491,91325,90214,93507,91430,89589,93190,94080,88287
+"West North Central : transportation","million kilowatthours","ELEC.SALES.WNC-TRA.A","--","--",0,21,44,41,41,46,43,44,41,39,41,45,45,46,47,49,49
+"West North Central : other","million kilowatthours","ELEC.SALES.WNC-OTH.A",7111,7737,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Iowa","million kilowatthours","ELEC.SALES.IA-ALL.A",,,,,,,,,,,,,,,,,,,
+"Iowa : all sectors","million kilowatthours","ELEC.SALES.IA-ALL.A",39444,40898,41207,40903,42757,43337,45270,45488,43641,45445,45655,45709,46705,47202,47147,48431,48922,51211,50023
+"Iowa : residential","million kilowatthours","ELEC.SALES.IA-RES.A",12430,12921,12768,12625,13571,13344,14060,14073,13723,14555,14327,13988,14626,14427,13786,14094,13722,14840,14243
+"Iowa : commercial","million kilowatthours","ELEC.SALES.IA-COM.A",8512,8803,11637,10840,11271,11660,12084,12178,11706,12025,12088,12210,12445,12339,12072,12291,12135,12418,12314
+"Iowa : industrial","million kilowatthours","ELEC.SALES.IA-IND.A",16238,16548,16803,17437,17915,18331,19125,19237,18211,18865,19240,19512,19635,20436,21289,22046,23065,23953,23466
+"Iowa : transportation","million kilowatthours","ELEC.SALES.IA-TRA.A","--","--",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Iowa : other","million kilowatthours","ELEC.SALES.IA-OTH.A",2264,2626,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Kansas","million kilowatthours","ELEC.SALES.KS-ALL.A",,,,,,,,,,,,,,,,,,,
+"Kansas : all sectors","million kilowatthours","ELEC.SALES.KS-ALL.A",35847,36714,36735,37127,39024,39751,40166,39965,38243,40421,40760,40293,39847,40562,39849,40810,40288,42037,40154
+"Kansas : residential","million kilowatthours","ELEC.SALES.KS-RES.A",12062,12745,12602,12417,13406,13503,13806,13502,13149,14334,14344,13797,13593,13685,13242,13509,13013,14187,13619
+"Kansas : commercial","million kilowatthours","ELEC.SALES.KS-COM.A",12787,13392,13751,13831,14453,14786,15474,15496,15007,15436,15609,15456,15245,15383,15380,15887,15739,16169,15626
+"Kansas : industrial","million kilowatthours","ELEC.SALES.KS-IND.A",10569,10195,10382,10879,11165,11462,10885,10967,10087,10651,10807,11041,11009,11494,11227,11414,11535,11681,10909
+"Kansas : transportation","million kilowatthours","ELEC.SALES.KS-TRA.A","--","--",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Kansas : other","million kilowatthours","ELEC.SALES.KS-OTH.A",429,381,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Minnesota","million kilowatthours","ELEC.SALES.MN-ALL.A",,,,,,,,,,,,,,,,,,,
+"Minnesota : all sectors","million kilowatthours","ELEC.SALES.MN-ALL.A",60687,62162,63087,63340,66019,66770,68231,68794,64004,67800,68533,67989,68644,68719,66579,66546,67153,68708,65011
+"Minnesota : residential","million kilowatthours","ELEC.SALES.MN-RES.A",19400,20451,20638,20507,21743,21909,22646,22357,22034,22465,22524,22060,22850,22791,21714,21804,21574,22837,21905
+"Minnesota : commercial","million kilowatthours","ELEC.SALES.MN-COM.A",19799,19457,20533,20407,21985,22175,22523,22604,22311,22515,22371,22496,23041,22828,23388,23502,23274,23399,22576
+"Minnesota : industrial","million kilowatthours","ELEC.SALES.MN-IND.A",20767,21515,21916,22415,22266,22664,23041,23810,19637,22798,23619,23416,22734,23076,21453,21217,22281,22447,20505
+"Minnesota : transportation","million kilowatthours","ELEC.SALES.MN-TRA.A","--","--",0,11,25,21,21,22,22,22,19,17,19,24,24,24,24,26,25
+"Minnesota : other","million kilowatthours","ELEC.SALES.MN-OTH.A",721,740,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Missouri","million kilowatthours","ELEC.SALES.MO-ALL.A",,,,,,,,,,,,,,,,,,,
+"Missouri : all sectors","million kilowatthours","ELEC.SALES.MO-ALL.A",73213,75001,74240,74054,80940,82015,85533,84382,79897,86085,84255,82435,83407,83878,81504,78618,76461,82056,77285
+"Missouri : residential","million kilowatthours","ELEC.SALES.MO-RES.A",30168,31684,31422,31351,34412,33880,35872,35390,34221,37302,35941,34337,35318,35793,33912,34355,33051,37463,35350
+"Missouri : commercial","million kilowatthours","ELEC.SALES.MO-COM.A",26029,26796,27987,28391,29640,29800,31126,31118,30605,31431,30962,30483,30515,30665,30535,30728,30177,31179,30689
+"Missouri : industrial","million kilowatthours","ELEC.SALES.MO-IND.A",15815,15341,14831,14303,16869,18316,18515,17850,15050,17330,17330,17594,17551,17399,17036,13513,13211,13390,11222
+"Missouri : transportation","million kilowatthours","ELEC.SALES.MO-TRA.A","--","--",0,10,19,19,20,24,21,22,22,22,22,22,21,21,23,24,24
+"Missouri : other","million kilowatthours","ELEC.SALES.MO-OTH.A",1201,1179,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Nebraska","million kilowatthours","ELEC.SALES.NE-ALL.A",,,,,,,,,,,,,,,,,,,
+"Nebraska : all sectors","million kilowatthours","ELEC.SALES.NE-ALL.A",24723,25661,25857,25876,26976,27276,28248,28821,28452,29849,29676,30828,30701,30222,29495,30199,30359,30939,30003
+"Nebraska : residential","million kilowatthours","ELEC.SALES.NE-RES.A",8638,8956,8852,8757,9309,9294,9748,9756,9627,10107,9947,9680,10062,10028,9532,9738,9668,10412,10286
+"Nebraska : commercial","million kilowatthours","ELEC.SALES.NE-COM.A",7232,7384,8583,8501,8848,9006,9396,9441,9314,9532,9139,9233,9387,9526,9308,9307,9293,9553,9530
+"Nebraska : industrial","million kilowatthours","ELEC.SALES.NE-IND.A",7328,7563,8421,8618,8819,8977,9104,9624,9511,10210,10590,11915,11251,10668,10655,11154,11398,10974,10186
+"Nebraska : transportation","million kilowatthours","ELEC.SALES.NE-TRA.A","--","--",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Nebraska : other","million kilowatthours","ELEC.SALES.NE-OTH.A",1525,1758,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"North Dakota","million kilowatthours","ELEC.SALES.ND-ALL.A",,,,,,,,,,,,,,,,,,,
+"North Dakota : all sectors","million kilowatthours","ELEC.SALES.ND-ALL.A",9810,10219,10461,10516,10840,11245,11906,12416,12649,12956,13737,14717,16033,18240,18129,18520,20140,20670,21044
+"North Dakota : residential","million kilowatthours","ELEC.SALES.ND-RES.A",3480,3664,3707,3663,3796,3853,4067,4259,4449,4393,4552,4485,5039,5358,4863,4741,4848,5133,5042
+"North Dakota : commercial","million kilowatthours","ELEC.SALES.ND-COM.A",3071,3404,3800,3843,3994,4127,4215,4460,4558,4714,4866,5109,5685,5403,6279,6346,6530,6836,6775
+"North Dakota : industrial","million kilowatthours","ELEC.SALES.ND-IND.A",2753,2636,2954,3010,3050,3266,3624,3697,3641,3850,4319,5124,5309,7479,6988,7433,8762,8700,9227
+"North Dakota : transportation","million kilowatthours","ELEC.SALES.ND-TRA.A","--","--",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"North Dakota : other","million kilowatthours","ELEC.SALES.ND-OTH.A",506,516,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"South Dakota","million kilowatthours","ELEC.SALES.SD-ALL.A",,,,,,,,,,,,,,,,,,,
+"South Dakota : all sectors","million kilowatthours","ELEC.SALES.SD-ALL.A",8627,8937,9080,9214,9811,10056,10603,10974,11010,11356,11680,11734,12210,12355,12102,12130,12314,12857,12694
+"South Dakota : residential","million kilowatthours","ELEC.SALES.SD-RES.A",3580,3733,3740,3696,3973,4051,4261,4406,4511,4628,4646,4454,4824,4827,4571,4619,4653,5018,4935
+"South Dakota : commercial","million kilowatthours","ELEC.SALES.SD-COM.A",2915,3062,3713,3627,3998,4054,4181,4240,4238,4368,4447,4557,4662,4572,4749,4698,4723,4903,4987
+"South Dakota : industrial","million kilowatthours","ELEC.SALES.SD-IND.A",1666,1604,1627,1891,1840,1952,2161,2328,2260,2360,2586,2724,2724,2955,2782,2813,2938,2935,2772
+"South Dakota : transportation","million kilowatthours","ELEC.SALES.SD-TRA.A","--","--",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"South Dakota : other","million kilowatthours","ELEC.SALES.SD-OTH.A",465,538,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"South Atlantic","million kilowatthours","ELEC.SALES.SAT-ALL.A",,,,,,,,,,,,,,,,,,,
+"South Atlantic : all sectors","million kilowatthours","ELEC.SALES.SAT-ALL.A",720424,755378,764056,778026,798152,795788,817490,803084,783606,825432,801147,780723,787044,805631,815537,816179,800717,835391,824350
+"South Atlantic : residential","million kilowatthours","ELEC.SALES.SAT-RES.A",293713,315507,320561,330304,342385,339871,351568,344849,346028,375510,354455,336757,342952,355708,359258,361426,349290,374135,368514
+"South Atlantic : commercial","million kilowatthours","ELEC.SALES.SAT-COM.A",241264,244397,264610,272592,282320,297340,308753,306365,303541,310063,305563,303319,303434,306877,311709,313557,309752,317277,316999
+"South Atlantic : industrial","million kilowatthours","ELEC.SALES.SAT-IND.A",163369,172600,177689,173900,172204,157346,155847,150558,132708,138538,139809,139354,139337,141701,143229,139870,140374,142648,137454
+"South Atlantic : transportation","million kilowatthours","ELEC.SALES.SAT-TRA.A","--","--",1196,1230,1244,1231,1322,1312,1329,1320,1321,1293,1320,1346,1341,1326,1301,1331,1383
+"South Atlantic : other","million kilowatthours","ELEC.SALES.SAT-OTH.A",22078,22874,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Delaware","million kilowatthours","ELEC.SALES.DE-ALL.A",,,,,,,,,,,,,,,,,,,
+"Delaware : all sectors","million kilowatthours","ELEC.SALES.DE-ALL.A",11379,12019,12600,11761,12137,11555,11869,11749,11258,11606,11483,11519,11348,11338,11498,11258,11129,11773,11237
+"Delaware : residential","million kilowatthours","ELEC.SALES.DE-RES.A",3734,4020,4190,4305,4594,4259,4470,4428,4335,4760,4632,4522,4570,4645,4849,4763,4663,5070,4966
+"Delaware : commercial","million kilowatthours","ELEC.SALES.DE-COM.A",3605,3787,3886,4033,4238,4196,4321,4339,4185,4320,4260,4243,4158,4197,4219,4235,4185,4342,4458
+"Delaware : industrial","million kilowatthours","ELEC.SALES.DE-IND.A",3978,4151,4523,3423,3305,3100,3078,2982,2738,2526,2591,2755,2620,2496,2430,2260,2281,2361,1814
+"Delaware : transportation","million kilowatthours","ELEC.SALES.DE-TRA.A","--","--",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Delaware : other","million kilowatthours","ELEC.SALES.DE-OTH.A",62,60,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"District Of Columbia","million kilowatthours","ELEC.SALES.DC-ALL.A",,,,,,,,,,,,,,,,,,,
+"District Of Columbia : all sectors","million kilowatthours","ELEC.SALES.DC-ALL.A",10880,11129,10946,11415,11816,11396,12110,11616,11434,11877,11562,11259,11086,11194,11291,11394,10916,11358,11004
+"District Of Columbia : residential","million kilowatthours","ELEC.SALES.DC-RES.A",1699,1790,1754,1834,1938,1822,1970,1916,1900,2123,2061,2003,2034,2072,2498,2502,2395,2592,2547
+"District Of Columbia : commercial","million kilowatthours","ELEC.SALES.DC-COM.A",8539,8645,8639,8994,9296,9030,9519,9131,8992,9209,8966,8713,8499,8548,8222,8368,8006,8236,7927
+"District Of Columbia : industrial","million kilowatthours","ELEC.SALES.DC-IND.A",281,282,267,282,256,240,297,257,234,230,216,218,227,242,238,192,180,193,180
+"District Of Columbia : transportation","million kilowatthours","ELEC.SALES.DC-TRA.A","--","--",285,304,326,305,325,312,309,315,319,325,325,331,334,331,335,337,350
+"District Of Columbia : other","million kilowatthours","ELEC.SALES.DC-OTH.A",362,411,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Florida","million kilowatthours","ELEC.SALES.FL-ALL.A",,,,,,,,,,,,,,,,,,,
+"Florida : all sectors","million kilowatthours","ELEC.SALES.FL-ALL.A",200752,210474,217379,218584,224977,228220,231085,226173,224750,231210,225090,220674,221920,226078,235599,235722,233155,238565,237728
+"Florida : residential","million kilowatthours","ELEC.SALES.FL-RES.A",101377,108164,112650,112203,115791,117053,117816,113937,115474,122245,116341,112127,113294,116535,122759,123321,121463,125528,125374
+"Florida : commercial","million kilowatthours","ELEC.SALES.FL-COM.A",73958,77561,85257,86765,89410,91300,93931,93205,92275,91614,91778,92038,92145,92926,95847,95547,95004,96265,96019
+"Florida : industrial","million kilowatthours","ELEC.SALES.FL-IND.A",19854,18959,19375,19518,19676,19768,19241,18945,16918,17265,16886,16426,16390,16522,16897,16759,16602,16689,16250
+"Florida : transportation","million kilowatthours","ELEC.SALES.FL-TRA.A","--","--",97,98,99,99,96,86,84,86,86,84,91,95,95,95,86,83,85
+"Florida : other","million kilowatthours","ELEC.SALES.FL-OTH.A",5563,5789,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Georgia","million kilowatthours","ELEC.SALES.GA-ALL.A",,,,,,,,,,,,,,,,,,,
+"Georgia : all sectors","million kilowatthours","ELEC.SALES.GA-ALL.A",117790,123789,123677,129466,132265,134834,137454,135174,130766,140672,136371,130979,130497,135790,135878,138112,133457,139866,138088
+"Georgia : residential","million kilowatthours","ELEC.SALES.GA-RES.A",44380,48600,48174,51124,52827,54521,56223,55587,55158,61554,57750,53660,53544,57167,56422,57889,54771,59689,59344
+"Georgia : commercial","million kilowatthours","ELEC.SALES.GA-COM.A",37839,38887,40554,42316,44663,45547,46997,46876,46080,47897,46930,45937,45353,46608,47151,47762,46265,47312,47339
+"Georgia : industrial","million kilowatthours","ELEC.SALES.GA-IND.A",33941,34603,34768,35846,34602,34588,34054,32529,29348,31047,31521,31225,31443,31849,32134,32290,32251,32696,31240
+"Georgia : transportation","million kilowatthours","ELEC.SALES.GA-TRA.A","--","--",180,180,174,179,179,182,179,173,171,157,156,165,171,171,169,170,164
+"Georgia : other","million kilowatthours","ELEC.SALES.GA-OTH.A",1631,1699,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Maryland","million kilowatthours","ELEC.SALES.MD-ALL.A",,,,,,,,,,,,,,,,,,,
+"Maryland : all sectors","million kilowatthours","ELEC.SALES.MD-ALL.A",61640,68380,71259,66892,68365,63173,65391,63326,62589,65335,63600,61814,61899,61684,61782,61354,59304,62086,60588
+"Maryland : residential","million kilowatthours","ELEC.SALES.MD-RES.A",24294,25489,26671,27952,28440,26905,28195,27144,26945,28934,27296,26678,27448,27488,27403,27317,26084,28138,27519
+"Maryland : commercial","million kilowatthours","ELEC.SALES.MD-COM.A",26244,21044,16950,17264,17932,29729,30691,30003,29806,30771,30750,30108,29966,29804,29959,29676,28893,29548,28862
+"Maryland : industrial","million kilowatthours","ELEC.SALES.MD-IND.A",10177,20875,27176,21195,21517,6057,5980,5650,5286,5083,5007,4500,3944,3848,3883,3821,3798,3870,3632
+"Maryland : transportation","million kilowatthours","ELEC.SALES.MD-TRA.A","--","--",461,481,477,482,524,529,553,547,547,528,541,544,536,540,529,530,575
+"Maryland : other","million kilowatthours","ELEC.SALES.MD-OTH.A",926,972,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"North Carolina","million kilowatthours","ELEC.SALES.NC-ALL.A",,,,,,,,,,,,,,,,,,,
+"North Carolina : all sectors","million kilowatthours","ELEC.SALES.NC-ALL.A",119027,122686,121335,125657,128335,126699,131881,130069,127658,136415,131085,128085,129780,133133,133848,134404,131421,138287,135608
+"North Carolina : residential","million kilowatthours","ELEC.SALES.NC-RES.A",46201,49854,49349,51717,54073,52851,56095,55751,56311,62160,58056,54672,56251,58650,57902,58457,56134,61622,59672
+"North Carolina : commercial","million kilowatthours","ELEC.SALES.NC-COM.A",37744,39277,41672,42864,44161,44585,46807,46540,46240,47932,46467,46510,46649,47510,48236,48604,47890,49298,49313
+"North Carolina : industrial","million kilowatthours","ELEC.SALES.NC-IND.A",32931,31381,30314,31075,30101,29263,28978,27773,25100,26316,26555,26896,26872,26965,27701,27337,27393,27354,26604
+"North Carolina : transportation","million kilowatthours","ELEC.SALES.NC-TRA.A","--","--",0,0,0,0,0,5,7,7,7,7,7,9,9,6,4,13,19
+"North Carolina : other","million kilowatthours","ELEC.SALES.NC-OTH.A",2151,2174,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"South Carolina","million kilowatthours","ELEC.SALES.SC-ALL.A",,,,,,,,,,,,,,,,,,,
+"South Carolina : all sectors","million kilowatthours","ELEC.SALES.SC-ALL.A",74832,77819,77054,79908,81254,80877,81948,80651,76417,82479,80489,77781,78602,81620,81328,79578,78097,81641,79903
+"South Carolina : residential","million kilowatthours","ELEC.SALES.SC-RES.A",24875,26787,26422,27910,28676,28539,29569,29727,29556,32852,30802,28366,28813,30716,30059,30616,29225,31852,31325
+"South Carolina : commercial","million kilowatthours","ELEC.SALES.SC-COM.A",17484,18157,19336,20113,20498,20923,21746,21676,21440,22320,21593,21251,21120,21656,21927,22275,21758,22233,21811
+"South Carolina : industrial","million kilowatthours","ELEC.SALES.SC-IND.A",31528,31926,31296,31886,32080,31416,30632,29247,25421,27307,28094,28164,28669,29248,29342,26687,27114,27556,26767
+"South Carolina : transportation","million kilowatthours","ELEC.SALES.SC-TRA.A","--","--",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"South Carolina : other","million kilowatthours","ELEC.SALES.SC-OTH.A",946,950,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Virginia","million kilowatthours","ELEC.SALES.VA-ALL.A",,,,,,,,,,,,,,,,,,,
+"Virginia : all sectors","million kilowatthours","ELEC.SALES.VA-ALL.A",96453,100619,101510,105424,108850,106721,111570,110106,108462,113806,110228,107795,110512,112098,112009,112281,111530,118166,116949
+"Virginia : residential","million kilowatthours","ELEC.SALES.VA-RES.A",37325,40358,40877,42503,44662,42906,45481,44597,44763,48439,45771,43535,45416,46444,45928,45186,43982,47963,46615
+"Virginia : commercial","million kilowatthours","ELEC.SALES.VA-COM.A",29066,29999,41179,43025,44670,44654,46971,46878,46828,48037,47051,46757,47751,47752,48347,49264,50201,52268,53708
+"Virginia : industrial","million kilowatthours","ELEC.SALES.VA-IND.A",19702,19521,19282,19734,19354,18998,18925,18438,16678,17141,17218,17316,17150,17701,17537,17648,17169,17737,16436
+"Virginia : transportation","million kilowatthours","ELEC.SALES.VA-TRA.A","--","--",172,162,163,163,193,194,193,189,188,188,195,202,196,183,178,199,190
+"Virginia : other","million kilowatthours","ELEC.SALES.VA-OTH.A",10360,10740,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"West Virginia","million kilowatthours","ELEC.SALES.WV-ALL.A",,,,,,,,,,,,,,,,,,,
+"West Virginia : all sectors","million kilowatthours","ELEC.SALES.WV-ALL.A",27669,28463,28297,28919,30152,32312,34184,34221,30271,32032,31239,30817,31400,32696,32303,32076,31709,33647,33245
+"West Virginia : residential","million kilowatthours","ELEC.SALES.WV-RES.A",9828,10444,10473,10756,11384,11014,11749,11763,11588,12443,11746,11195,11582,11991,11437,11376,10573,11679,11151
+"West Virginia : commercial","million kilowatthours","ELEC.SALES.WV-COM.A",6786,7039,7136,7217,7452,7377,7769,7716,7694,7962,7768,7763,7794,7876,7801,7826,7549,7774,7562
+"West Virginia : industrial","million kilowatthours","ELEC.SALES.WV-IND.A",10978,10902,10687,10942,11312,13916,14661,14738,10985,11623,11720,11856,12021,12829,13065,12875,13586,14193,14533
+"West Virginia : transportation","million kilowatthours","ELEC.SALES.WV-TRA.A","--","--",0,4,4,4,4,4,4,4,4,4,4,0,0,0,0,0,0
+"West Virginia : other","million kilowatthours","ELEC.SALES.WV-OTH.A",78,78,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"East South Central","million kilowatthours","ELEC.SALES.ESC-ALL.A",,,,,,,,,,,,,,,,,,,
+"East South Central : all sectors","million kilowatthours","ELEC.SALES.ESC-ALL.A",299751,314019,312064,319085,328360,330289,339103,335027,312700,337641,328605,320000,318342,318961,313208,312587,303945,320192,308100
+"East South Central : residential","million kilowatthours","ELEC.SALES.ESC-RES.A",105288,111964,109487,111401,117348,117318,122233,119986,116420,130032,122605,114475,117535,121790,118305,118627,111800,124486,121137
+"East South Central : commercial","million kilowatthours","ELEC.SALES.ESC-COM.A",70537,72707,78430,80608,82511,83043,86292,84852,81715,85598,83741,82290,91370,89758,92400,93577,90020,94924,92258
+"East South Central : industrial","million kilowatthours","ELEC.SALES.ESC-IND.A",118042,123294,124147,127074,128500,129927,130576,130186,114564,122009,122257,123233,109435,107412,102502,100383,102125,100783,94706
+"East South Central : transportation","million kilowatthours","ELEC.SALES.ESC-TRA.A","--","--",0,1,1,1,2,2,2,2,2,2,2,1,0,0,0,0,0
+"East South Central : other","million kilowatthours","ELEC.SALES.ESC-OTH.A",5884,6053,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Alabama","million kilowatthours","ELEC.SALES.AL-ALL.A",,,,,,,,,,,,,,,,,,,
+"Alabama : all sectors","million kilowatthours","ELEC.SALES.AL-ALL.A",79358,83067,83844,86871,89202,90678,91828,89707,82845,90863,88995,86183,87852,90494,88846,88225,86242,90280,87735
+"Alabama : residential","million kilowatthours","ELEC.SALES.AL-RES.A",27802,30022,29416,30109,31315,32277,32783,32185,31489,35529,33003,30632,31379,32930,31909,32056,30181,33080,32594
+"Alabama : commercial","million kilowatthours","ELEC.SALES.AL-COM.A",18868,19666,20411,21166,21608,22120,22873,22533,21918,22984,22257,21799,22603,22929,23438,23634,22744,23483,22621
+"Alabama : industrial","million kilowatthours","ELEC.SALES.AL-IND.A",31949,32615,34017,35595,36279,36281,36172,34990,29437,32350,33735,33751,33870,34635,33499,32535,33317,33717,32520
+"Alabama : transportation","million kilowatthours","ELEC.SALES.AL-TRA.A","--","--",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Alabama : other","million kilowatthours","ELEC.SALES.AL-OTH.A",739,764,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Kentucky","million kilowatthours","ELEC.SALES.KY-ALL.A",,,,,,,,,,,,,,,,,,,
+"Kentucky : all sectors","million kilowatthours","ELEC.SALES.KY-ALL.A",79975,87267,85220,86521,89351,88743,92404,93428,88897,93569,89538,89048,84764,78839,76039,74554,72634,76611,73407
+"Kentucky : residential","million kilowatthours","ELEC.SALES.KY-RES.A",23698,25347,24704,25187,26947,25949,28004,27562,26561,29137,27198,26097,26788,27400,26168,26338,24883,27713,26684
+"Kentucky : commercial","million kilowatthours","ELEC.SALES.KY-COM.A",14338,14745,17946,18443,19091,18941,20035,19669,18734,19411,18721,18756,21004,19157,19589,19981,19293,19980,19534
+"Kentucky : industrial","million kilowatthours","ELEC.SALES.KY-IND.A",38676,43812,42570,42891,43314,43853,44366,46198,43602,45022,43619,44196,36972,32283,30281,28234,28459,28917,27188
+"Kentucky : transportation","million kilowatthours","ELEC.SALES.KY-TRA.A","--","--",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Kentucky : other","million kilowatthours","ELEC.SALES.KY-OTH.A",3263,3362,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Mississippi","million kilowatthours","ELEC.SALES.MS-ALL.A",,,,,,,,,,,,,,,,,,,
+"Mississippi : all sectors","million kilowatthours","ELEC.SALES.MS-ALL.A",44287,45452,45544,46033,45901,46936,48153,47721,46049,49687,49338,48388,48782,49409,48692,49050,47829,50390,49393
+"Mississippi : residential","million kilowatthours","ELEC.SALES.MS-RES.A",16856,17844,17670,17580,17953,18276,18566,18294,18095,20175,19336,17993,18462,18922,18561,18459,17444,19311,19107
+"Mississippi : commercial","million kilowatthours","ELEC.SALES.MS-COM.A",11357,11773,12593,12750,12666,12949,13400,13233,13013,13805,13738,13585,14188,14175,14392,14523,14256,14530,13758
+"Mississippi : industrial","million kilowatthours","ELEC.SALES.MS-IND.A",15268,15021,15281,15702,15282,15712,16187,16195,14940,15707,16263,16810,16132,16312,15739,16069,16129,16549,16528
+"Mississippi : transportation","million kilowatthours","ELEC.SALES.MS-TRA.A","--","--",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mississippi : other","million kilowatthours","ELEC.SALES.MS-OTH.A",805,815,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Tennessee","million kilowatthours","ELEC.SALES.TN-ALL.A",,,,,,,,,,,,,,,,,,,
+"Tennessee : all sectors","million kilowatthours","ELEC.SALES.TN-ALL.A",96131,98233,97456,99661,103905,103932,106717,104170,94910,103522,100733,96381,96944,100219,99632,100758,97240,102911,97566
+"Tennessee : residential","million kilowatthours","ELEC.SALES.TN-RES.A",36932,38752,37697,38526,41132,40816,42880,41947,40275,45191,43068,39754,40906,42538,41667,41774,39293,44382,42751
+"Tennessee : commercial","million kilowatthours","ELEC.SALES.TN-COM.A",25974,26523,27481,28249,29146,29033,29985,29418,28049,29399,29025,28150,33575,33497,34982,35439,33727,36930,36345
+"Tennessee : industrial","million kilowatthours","ELEC.SALES.TN-IND.A",32149,31845,32278,32885,33625,34081,33850,32804,26584,28930,28638,28476,22462,24182,22983,23546,24220,21599,18469
+"Tennessee : transportation","million kilowatthours","ELEC.SALES.TN-TRA.A","--","--",0,1,1,1,2,2,2,2,2,2,2,1,0,0,0,0,0
+"Tennessee : other","million kilowatthours","ELEC.SALES.TN-OTH.A",1077,1113,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"West South Central","million kilowatthours","ELEC.SALES.WSC-ALL.A",,,,,,,,,,,,,,,,,,,
+"West South Central : all sectors","million kilowatthours","ELEC.SALES.WSC-ALL.A",484136,492042,493992,494966,511519,521733,525644,528954,521739,549578,570209,556035,571237,588952,591815,597819,599664,632783,612380
+"West South Central : residential","million kilowatthours","ELEC.SALES.WSC-RES.A",178043,185047,185687,184511,193659,193712,192574,196342,198188,212760,220886,208157,212401,214093,218086,217197,212638,232709,227065
+"West South Central : commercial","million kilowatthours","ELEC.SALES.WSC-COM.A",128340,128833,146164,149935,161320,162887,163863,167303,171982,176864,184254,189413,192511,196362,194164,196873,194398,201723,195654
+"West South Central : industrial","million kilowatthours","ELEC.SALES.WSC-IND.A",156873,161697,162047,160423,156458,165070,169136,165234,151488,159868,164990,158384,166253,178313,179373,183555,192433,198150,189461
+"West South Central : transportation","million kilowatthours","ELEC.SALES.WSC-TRA.A","--","--",93,97,82,64,70,74,80,86,80,81,73,184,192,194,196,201,199
+"West South Central : other","million kilowatthours","ELEC.SALES.WSC-OTH.A",20880,16465,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Arkansas","million kilowatthours","ELEC.SALES.AR-ALL.A",,,,,,,,,,,,,,,,,,,
+"Arkansas : all sectors","million kilowatthours","ELEC.SALES.AR-ALL.A",41732,42450,43108,43672,46165,46636,47055,46135,43173,48194,47928,46860,46683,47080,46465,46188,46086,49603,47917
+"Arkansas : residential","million kilowatthours","ELEC.SALES.AR-RES.A",15104,15527,15598,15619,17134,17065,17415,17392,16986,19231,18787,17909,18219,18441,18273,17784,17027,19259,18750
+"Arkansas : commercial","million kilowatthours","ELEC.SALES.AR-COM.A",9153,9304,10568,10731,11366,11581,11801,11703,11477,12188,12146,12102,11898,11988,12153,12178,11913,12278,11900
+"Arkansas : industrial","million kilowatthours","ELEC.SALES.AR-IND.A",16734,16887,16942,17322,17665,17990,17839,17038,14710,16775,16994,16848,16565,16651,16038,16226,17146,18065,17267
+"Arkansas : transportation","million kilowatthours","ELEC.SALES.AR-TRA.A","--","--",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Arkansas : other","million kilowatthours","ELEC.SALES.AR-OTH.A",741,731,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Louisiana","million kilowatthours","ELEC.SALES.LA-ALL.A",,,,,,,,,,,,,,,,,,,
+"Louisiana : all sectors","million kilowatthours","ELEC.SALES.LA-ALL.A",74693,79261,77769,79737,77389,77468,79567,78726,78670,85080,86369,84731,85808,90628,91676,91453,91206,94186,90602
+"Louisiana : residential","million kilowatthours","ELEC.SALES.LA-RES.A",25800,28157,28572,28863,28654,28113,28878,28848,29747,32679,32019,30027,30709,31401,31545,30650,29532,32066,31339
+"Louisiana : commercial","million kilowatthours","ELEC.SALES.LA-COM.A",17722,18686,21944,22568,21692,21979,22887,22940,23301,24203,24281,24245,24254,24493,24996,24896,24500,24691,24726
+"Louisiana : industrial","million kilowatthours","ELEC.SALES.LA-IND.A",28574,29662,27251,28290,27031,27373,27799,26932,25613,28187,30058,30449,30833,34723,35123,35895,37161,37417,34526
+"Louisiana : transportation","million kilowatthours","ELEC.SALES.LA-TRA.A","--","--",3,16,12,3,3,5,9,11,11,11,11,12,12,12,13,13,12
+"Louisiana : other","million kilowatthours","ELEC.SALES.LA-OTH.A",2596,2756,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Oklahoma","million kilowatthours","ELEC.SALES.OK-ALL.A",,,,,,,,,,,,,,,,,,,
+"Oklahoma : all sectors","million kilowatthours","ELEC.SALES.OK-ALL.A",49667,49485,50428,50942,53707,54905,55193,56279,54545,57846,59847,59341,59929,61573,61336,61517,60492,64575,63742
+"Oklahoma : residential","million kilowatthours","ELEC.SALES.OK-RES.A",19796,19927,20162,19699,21309,21690,21361,21861,21641,23689,24425,22810,23200,23351,22616,22790,21838,24117,24001
+"Oklahoma : commercial","million kilowatthours","ELEC.SALES.OK-COM.A",13552,13097,16958,17020,17477,18197,18634,19022,18670,19005,19613,19961,19843,20449,20691,20696,20499,21229,19572
+"Oklahoma : industrial","million kilowatthours","ELEC.SALES.OK-IND.A",13356,12898,13308,14223,14920,15018,15198,15395,14233,15152,15809,16570,16886,17773,18029,18031,18156,19229,20170
+"Oklahoma : transportation","million kilowatthours","ELEC.SALES.OK-TRA.A","--","--",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Oklahoma : other","million kilowatthours","ELEC.SALES.OK-OTH.A",2963,3564,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Texas","million kilowatthours","ELEC.SALES.TX-ALL.A",,,,,,,,,,,,,,,,,,,
+"Texas : all sectors","million kilowatthours","ELEC.SALES.TX-ALL.A",318044,320846,322686,320615,334258,342724,343829,347815,345351,358458,376065,365104,378817,389670,392337,398662,401880,424419,410118
+"Texas : residential","million kilowatthours","ELEC.SALES.TX-RES.A",117343,121435,121355,120330,126562,126843,124921,128240,129815,137161,145654,137412,140273,140900,145652,145973,144242,157268,152976
+"Texas : commercial","million kilowatthours","ELEC.SALES.TX-COM.A",87912,87746,96694,99616,110784,111130,110540,113638,118535,121467,128214,133105,136516,139432,136324,139104,137486,143525,139457
+"Texas : industrial","million kilowatthours","ELEC.SALES.TX-IND.A",98208,102251,104547,100588,96841,104689,108300,105868,96931,99754,102129,94517,101968,109165,110182,113403,119970,123439,117499
+"Texas : transportation","million kilowatthours","ELEC.SALES.TX-TRA.A","--","--",90,81,71,62,67,69,71,74,68,70,61,172,180,182,182,187,187
+"Texas : other","million kilowatthours","ELEC.SALES.TX-OTH.A",14581,9414,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Mountain","million kilowatthours","ELEC.SALES.MTN-ALL.A",,,,,,,,,,,,,,,,,,,
+"Mountain : all sectors","million kilowatthours","ELEC.SALES.MTN-ALL.A",222114,226621,231194,237632,245353,256897,269011,269751,261656,263678,268697,271377,273161,272398,274962,276122,278014,283325,282705
+"Mountain : residential","million kilowatthours","ELEC.SALES.MTN-RES.A",74907,77035,79887,81714,85691,90458,95073,94110,93432,93359,94775,94872,96356,93788,95206,97005,98536,100312,100169
+"Mountain : commercial","million kilowatthours","ELEC.SALES.MTN-COM.A",75058,77803,83522,84671,87501,90722,94563,94417,92398,91865,93413,94114,94636,93898,94880,95538,97122,99065,98213
+"Mountain : industrial","million kilowatthours","ELEC.SALES.MTN-IND.A",64593,63674,67723,71203,72107,75654,79288,81134,75741,78367,80414,82292,82044,84579,84740,83442,82211,83788,84139
+"Mountain : transportation","million kilowatthours","ELEC.SALES.MTN-TRA.A","--","--",62,44,55,62,87,90,84,89,93,99,124,133,134,137,145,161,185
+"Mountain : other","million kilowatthours","ELEC.SALES.MTN-OTH.A",7556,8109,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Arizona","million kilowatthours","ELEC.SALES.AZ-ALL.A",,,,,,,,,,,,,,,,,,,
+"Arizona : all sectors","million kilowatthours","ELEC.SALES.AZ-ALL.A",62274,62601,64080,66933,69391,73253,77193,76268,73433,72833,74944,75063,75662,76298,77349,78238,77646,78346,77720
+"Arizona : residential","million kilowatthours","ELEC.SALES.AZ-RES.A",26200,26413,27742,28921,30544,32367,34437,33236,32847,32448,33079,32923,33104,32346,33167,33691,34251,34660,34734
+"Arizona : commercial","million kilowatthours","ELEC.SALES.AZ-COM.A",22045,22371,25425,26106,27468,28626,30475,30162,29386,28943,29512,29692,30039,29290,29284,29564,29681,29684,29417
+"Arizona : industrial","million kilowatthours","ELEC.SALES.AZ-IND.A",11377,11026,10914,11906,11379,12259,12281,12869,11200,11442,12352,12448,12519,14662,14892,14976,13706,13994,13558
+"Arizona : transportation","million kilowatthours","ELEC.SALES.AZ-TRA.A","--","--",0,0,0,0,0,0,0,0,0,0,0,0,6,7,8,8,11
+"Arizona : other","million kilowatthours","ELEC.SALES.AZ-OTH.A",2652,2791,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Colorado","million kilowatthours","ELEC.SALES.CO-ALL.A",,,,,,,,,,,,,,,,,,,
+"Colorado : all sectors","million kilowatthours","ELEC.SALES.CO-ALL.A",44236,45937,46495,46724,48353,49734,51299,52142,51036,52918,53458,53685,53442,53397,54116,54802,54830,56450,56272
+"Colorado : residential","million kilowatthours","ELEC.SALES.CO-RES.A",14470,15425,15725,15532,16436,16952,17634,17720,17413,18102,18277,18220,18529,18093,18385,18834,18615,19287,19348
+"Colorado : commercial","million kilowatthours","ELEC.SALES.CO-COM.A",17890,18438,19657,19498,19846,20153,20508,20551,20008,19597,19889,19997,20098,20129,20408,20800,20641,21023,20682
+"Colorado : industrial","million kilowatthours","ELEC.SALES.CO-IND.A",10918,10672,11076,11675,12052,12605,13113,13822,13571,15172,15242,15415,14753,15110,15259,15103,15501,16047,16128
+"Colorado : transportation","million kilowatthours","ELEC.SALES.CO-TRA.A","--","--",37,19,19,25,44,49,44,46,50,52,62,64,64,65,73,93,114
+"Colorado : other","million kilowatthours","ELEC.SALES.CO-OTH.A",958,1401,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Idaho","million kilowatthours","ELEC.SALES.ID-ALL.A",,,,,,,,,,,,,,,,,,,
+"Idaho : all sectors","million kilowatthours","ELEC.SALES.ID-ALL.A",21096,20700,21219,21809,21853,22762,23755,23901,22754,22798,23272,23712,24208,23233,23059,23063,23794,23754,23814
+"Idaho : residential","million kilowatthours","ELEC.SALES.ID-RES.A",6906,7056,7090,7314,7601,8057,8339,8540,8554,8137,8390,8159,8619,8135,8055,8172,8728,8428,8648
+"Idaho : commercial","million kilowatthours","ELEC.SALES.ID-COM.A",6543,6963,5466,5484,5615,5813,6015,6049,6005,5865,5969,5978,6250,6128,6264,6279,6421,6437,6399
+"Idaho : industrial","million kilowatthours","ELEC.SALES.ID-IND.A",7305,6352,8663,9011,8636,8891,9401,9313,8195,8796,8912,9574,9338,8970,8740,8612,8645,8889,8767
+"Idaho : transportation","million kilowatthours","ELEC.SALES.ID-TRA.A","--","--",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Idaho : other","million kilowatthours","ELEC.SALES.ID-OTH.A",342,329,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Montana","million kilowatthours","ELEC.SALES.MT-ALL.A",,,,,,,,,,,,,,,,,,,
+"Montana : all sectors","million kilowatthours","ELEC.SALES.MT-ALL.A",11447,12831,12825,12957,13479,13815,15532,15326,14354,13771,13788,13863,14045,14102,14207,14101,14710,14839,15069
+"Montana : residential","million kilowatthours","ELEC.SALES.MT-RES.A",3886,4031,4120,4053,4221,4394,4542,4669,4790,4743,4913,4778,4926,4969,4825,4853,5225,5198,5250
+"Montana : commercial","million kilowatthours","ELEC.SALES.MT-COM.A",3866,4003,4438,4330,4473,4686,4828,4826,4791,4789,4892,4918,4890,4903,4894,4832,4970,4921,4967
+"Montana : industrial","million kilowatthours","ELEC.SALES.MT-IND.A",3370,4463,4267,4574,4784,4735,6163,5831,4773,4239,3983,4168,4229,4230,4488,4416,4515,4720,4851
+"Montana : transportation","million kilowatthours","ELEC.SALES.MT-TRA.A","--","--",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Montana : other","million kilowatthours","ELEC.SALES.MT-OTH.A",324,335,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Nevada","million kilowatthours","ELEC.SALES.NV-ALL.A",,,,,,,,,,,,,,,,,,,
+"Nevada : all sectors","million kilowatthours","ELEC.SALES.NV-ALL.A",28167,29204,30132,31312,32501,34586,35643,35192,34284,33773,33916,35180,35211,35076,36020,36145,36658,37780,37410
+"Nevada : residential","million kilowatthours","ELEC.SALES.NV-RES.A",9607,9702,10340,10673,11080,11978,12390,12061,11880,11615,11493,12123,12142,11917,12339,12692,12937,13450,12839
+"Nevada : commercial","million kilowatthours","ELEC.SALES.NV-COM.A",6693,7538,8168,8275,8516,8975,9352,9304,8950,8970,8995,9315,9302,9418,9614,9929,11123,12124,12215
+"Nevada : industrial","million kilowatthours","ELEC.SALES.NV-IND.A",11239,11373,11624,12364,12897,13625,13893,13820,13445,13180,13420,13734,13759,13733,14059,13515,12590,12198,12348
+"Nevada : transportation","million kilowatthours","ELEC.SALES.NV-TRA.A","--","--",0,0,8,8,8,8,8,8,8,8,8,8,8,8,9,8,8
+"Nevada : other","million kilowatthours","ELEC.SALES.NV-OTH.A",628,592,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"New Mexico","million kilowatthours","ELEC.SALES.NM-ALL.A",,,,,,,,,,,,,,,,,,,
+"New Mexico : all sectors","million kilowatthours","ELEC.SALES.NM-ALL.A",18727,19207,19330,19846,20639,21435,22267,22038,21647,22428,23042,23179,23065,23115,23094,23040,23010,24049,25007
+"New Mexico : residential","million kilowatthours","ELEC.SALES.NM-RES.A",4999,5238,5418,5635,5865,6009,6387,6379,6504,6752,6874,6764,6804,6612,6642,6643,6497,6826,6921
+"New Mexico : commercial","million kilowatthours","ELEC.SALES.NM-COM.A",6844,7000,8063,8239,8411,8604,8932,8828,8734,9016,9258,9166,8983,8976,8877,8806,8784,9035,9193
+"New Mexico : industrial","million kilowatthours","ELEC.SALES.NM-IND.A",5272,5316,5849,5972,6363,6822,6948,6831,6409,6660,6910,7249,7278,7527,7575,7591,7728,8187,8893
+"New Mexico : transportation","million kilowatthours","ELEC.SALES.NM-TRA.A","--","--",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"New Mexico : other","million kilowatthours","ELEC.SALES.NM-OTH.A",1612,1653,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Utah","million kilowatthours","ELEC.SALES.UT-ALL.A",,,,,,,,,,,,,,,,,,,
+"Utah : all sectors","million kilowatthours","ELEC.SALES.UT-ALL.A",23217,23267,23860,24512,25000,26366,27785,28192,27587,28044,28859,29723,30474,30043,30192,30180,30589,31242,30663
+"Utah : residential","million kilowatthours","ELEC.SALES.UT-RES.A",6693,6938,7166,7325,7567,8232,8752,8786,8725,8834,8947,9188,9402,8964,9117,9371,9511,9715,9567
+"Utah : commercial","million kilowatthours","ELEC.SALES.UT-COM.A",8262,8463,9024,9345,9417,9749,10241,10286,10235,10368,10544,10803,11008,11053,11615,11565,11739,12084,11686
+"Utah : industrial","million kilowatthours","ELEC.SALES.UT-IND.A",7411,7019,7646,7816,7989,8356,8759,9086,8594,8808,9333,9694,10010,9965,9405,9187,9283,9393,9358
+"Utah : transportation","million kilowatthours","ELEC.SALES.UT-TRA.A","--","--",25,25,28,29,34,33,32,34,35,38,54,61,56,57,56,51,52
+"Utah : other","million kilowatthours","ELEC.SALES.UT-OTH.A",851,846,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Wyoming","million kilowatthours","ELEC.SALES.WY-ALL.A",,,,,,,,,,,,,,,,,,,
+"Wyoming : all sectors","million kilowatthours","ELEC.SALES.WY-ALL.A",12950,12874,13254,13540,14138,14947,15536,16690,16562,17113,17418,16971,17054,17134,16925,16555,16778,16865,16750
+"Wyoming : residential","million kilowatthours","ELEC.SALES.WY-RES.A",2146,2232,2286,2262,2377,2468,2592,2719,2720,2727,2803,2717,2829,2752,2677,2751,2772,2748,2862
+"Wyoming : commercial","million kilowatthours","ELEC.SALES.WY-COM.A",2915,3027,3282,3393,3754,4117,4214,4411,4288,4317,4353,4245,4067,4000,3925,3762,3762,3757,3653
+"Wyoming : industrial","million kilowatthours","ELEC.SALES.WY-IND.A",7700,7453,7685,7884,8007,8362,8730,9560,9554,10069,10262,10009,10157,10381,10323,10041,10244,10359,10235
+"Wyoming : transportation","million kilowatthours","ELEC.SALES.WY-TRA.A","--","--",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Wyoming : other","million kilowatthours","ELEC.SALES.WY-OTH.A",189,162,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Pacific Contiguous","million kilowatthours","ELEC.SALES.PCC-ALL.A",,,,,,,,,,,,,,,,,,,
+"Pacific Contiguous : all sectors","million kilowatthours","ELEC.SALES.PCC-ALL.A",372139,355872,366550,377644,384094,396061,398674,404676,397361,394937,402838,398563,401856,402061,398550,393081,399260,394556,384937
+"Pacific Contiguous : residential","million kilowatthours","ELEC.SALES.PCC-RES.A",125779,126822,132534,133817,137161,143252,143922,147477,146371,141003,144204,144476,144554,143061,141727,141096,147472,143370,143095
+"Pacific Contiguous : commercial","million kilowatthours","ELEC.SALES.PCC-COM.A",135116,141799,153100,162845,161030,165918,169476,171218,167152,165439,167944,166835,162597,164574,163672,161824,164053,161653,157896
+"Pacific Contiguous : industrial","million kilowatthours","ELEC.SALES.PCC-IND.A",95465,76535,80049,80025,85038,85995,84408,85094,82967,87642,89832,86536,93841,93566,92284,89349,86868,88750,83054
+"Pacific Contiguous : transportation","million kilowatthours","ELEC.SALES.PCC-TRA.A","--","--",866,958,865,896,868,887,871,853,859,717,864,860,867,812,867,783,893
+"Pacific Contiguous : other","million kilowatthours","ELEC.SALES.PCC-OTH.A",15779,10716,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"California","million kilowatthours","ELEC.SALES.CA-ALL.A",,,,,,,,,,,,,,,,,,,
+"California : all sectors","million kilowatthours","ELEC.SALES.CA-ALL.A",247759,235213,243221,252026,254250,262959,264235,268155,259584,258531,261942,259538,261332,262585,261170,256847,257268,255224,247680
+"California : residential","million kilowatthours","ELEC.SALES.CA-RES.A",76668,77202,82926,83361,85610,89836,89158,91231,89799,87257,88398,90110,89242,89361,89386,88311,90124,89100,87598
+"California : commercial","million kilowatthours","ELEC.SALES.CA-COM.A",96459,102587,109578,118953,117551,121255,123690,125026,121105,121152,122781,121792,116858,119494,118384,116775,117682,115786,112418
+"California : industrial","million kilowatthours","ELEC.SALES.CA-IND.A",63041,48448,49909,48812,50242,50991,50538,51031,47835,49301,49936,46952,54397,52898,52562,50979,48627,49588,46897
+"California : transportation","million kilowatthours","ELEC.SALES.CA-TRA.A","--","--",809,900,846,877,848,867,844,821,827,685,836,832,838,782,835,750,767
+"California : other","million kilowatthours","ELEC.SALES.CA-OTH.A",11591,6976,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Oregon","million kilowatthours","ELEC.SALES.OR-ALL.A",,,,,,,,,,,,,,,,,,,
+"Oregon : all sectors","million kilowatthours","ELEC.SALES.OR-ALL.A",45885,45255,45195,45636,46419,48069,48697,49187,47567,46026,47171,46689,47641,47335,47264,47349,50044,49326,47884
+"Oregon : residential","million kilowatthours","ELEC.SALES.OR-RES.A",17503,17554,17736,18001,18339,18978,19374,19910,19804,18839,19429,18855,19329,18618,18269,18573,20066,18931,19365
+"Oregon : commercial","million kilowatthours","ELEC.SALES.OR-COM.A",14816,14902,15483,15667,15380,16083,16187,16313,15978,15454,15754,15804,16080,16039,16021,16060,16571,16470,16417
+"Oregon : industrial","million kilowatthours","ELEC.SALES.OR-IND.A",13084,12296,11961,11954,12684,12991,13117,12945,11761,11708,11963,12006,12210,12654,12950,12692,13382,13899,12075
+"Oregon : transportation","million kilowatthours","ELEC.SALES.OR-TRA.A","--","--",15,16,17,18,18,19,24,25,25,25,22,23,24,24,25,26,27
+"Oregon : other","million kilowatthours","ELEC.SALES.OR-OTH.A",481,503,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Washington","million kilowatthours","ELEC.SALES.WA-ALL.A",,,,,,,,,,,,,,,,,,,
+"Washington : all sectors","million kilowatthours","ELEC.SALES.WA-ALL.A",78495,75404,78134,79982,83425,85033,85742,87333,90210,90380,93725,92336,92883,92141,90116,88885,91948,90006,89374
+"Washington : residential","million kilowatthours","ELEC.SALES.WA-RES.A",31608,32066,31872,32455,33212,34439,35389,36336,36768,34907,36376,35511,35983,35083,34072,34212,37283,35339,36131
+"Washington : commercial","million kilowatthours","ELEC.SALES.WA-COM.A",23841,24310,28039,28226,28100,28580,29599,29878,30069,28833,29409,29240,29659,29040,29267,28989,29800,29396,29061
+"Washington : industrial","million kilowatthours","ELEC.SALES.WA-IND.A",19339,15792,18180,19259,22112,22013,20753,21117,23371,26633,27933,27579,27235,28013,26772,25678,24859,25263,24082
+"Washington : transportation","million kilowatthours","ELEC.SALES.WA-TRA.A","--","--",42,42,2,1,2,2,3,7,7,7,6,5,5,6,7,7,99
+"Washington : other","million kilowatthours","ELEC.SALES.WA-OTH.A",3707,3237,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Pacific Noncontiguous","million kilowatthours","ELEC.SALES.PCN-ALL.A",,,,,,,,,,,,,,,,,,,
+"Pacific Noncontiguous : all sectors","million kilowatthours","ELEC.SALES.PCN-ALL.A",15239,15357,15955,16520,16451,16750,16912,16716,16396,16264,16281,16056,15771,15640,15671,15569,15510,15310,15231
+"Pacific Noncontiguous : residential","million kilowatthours","ELEC.SALES.PCN-RES.A",4694,4831,5015,5224,5226,5303,5315,5215,5173,5083,5063,4899,4713,4627,4686,4618,4690,4686,4705
+"Pacific Noncontiguous : commercial","million kilowatthours","ELEC.SALES.PCN-COM.A",5418,5406,5990,6233,6158,6309,6349,6353,6229,6184,6223,6113,6095,5963,5938,5843,5787,5679,5671
+"Pacific Noncontiguous : industrial","million kilowatthours","ELEC.SALES.PCN-IND.A",4869,4858,4950,5063,5068,5139,5248,5149,4994,4997,4995,5043,4963,5049,5047,5108,5033,4945,4854
+"Pacific Noncontiguous : transportation","million kilowatthours","ELEC.SALES.PCN-TRA.A","--","--",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Pacific Noncontiguous : other","million kilowatthours","ELEC.SALES.PCN-OTH.A",257,262,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Alaska","million kilowatthours","ELEC.SALES.AK-ALL.A",,,,,,,,,,,,,,,,,,,
+"Alaska : all sectors","million kilowatthours","ELEC.SALES.AK-ALL.A",5454,5465,5564,5788,5913,6182,6327,6326,6270,6247,6320,6416,6268,6165,6159,6123,6186,5972,5841
+"Alaska : residential","million kilowatthours","ELEC.SALES.AK-RES.A",1891,1932,1987,2062,2062,2120,2114,2130,2117,2093,2134,2160,2104,2044,2044,2006,2060,1975,1945
+"Alaska : commercial","million kilowatthours","ELEC.SALES.AK-COM.A",2289,2238,2473,2601,2695,2819,2828,2852,2841,2830,2854,2875,2824,2762,2763,2731,2705,2646,2669
+"Alaska : industrial","million kilowatthours","ELEC.SALES.AK-IND.A",1079,1088,1104,1126,1156,1243,1384,1344,1311,1324,1331,1381,1340,1360,1352,1385,1421,1352,1227
+"Alaska : transportation","million kilowatthours","ELEC.SALES.AK-TRA.A","--","--",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Alaska : other","million kilowatthours","ELEC.SALES.AK-OTH.A",194,207,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Hawaii","million kilowatthours","ELEC.SALES.HI-ALL.A",,,,,,,,,,,,,,,,,,,
+"Hawaii : all sectors","million kilowatthours","ELEC.SALES.HI-ALL.A",9785,9892,10391,10732,10539,10568,10585,10390,10126,10017,9962,9639,9503,9475,9511,9445,9324,9337,9390
+"Hawaii : residential","million kilowatthours","ELEC.SALES.HI-RES.A",2802,2898,3028,3162,3164,3182,3201,3085,3055,2989,2929,2739,2609,2584,2641,2612,2630,2711,2761
+"Hawaii : commercial","million kilowatthours","ELEC.SALES.HI-COM.A",3129,3168,3517,3632,3463,3490,3520,3501,3388,3355,3368,3238,3271,3202,3174,3111,3082,3033,3002
+"Hawaii : industrial","million kilowatthours","ELEC.SALES.HI-IND.A",3790,3770,3846,3937,3912,3896,3864,3804,3683,3672,3665,3662,3623,3690,3696,3722,3613,3593,3627
+"Hawaii : transportation","million kilowatthours","ELEC.SALES.HI-TRA.A","--","--",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Hawaii : other","million kilowatthours","ELEC.SALES.HI-OTH.A",63,55,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
